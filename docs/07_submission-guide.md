@@ -94,7 +94,7 @@
    2. **Tag required accounts**: 
       - @ConfluxDevs
       - @ConfluxNetwork
-   3. **Include relevant hashtags**: #ConfluxHackathon #CodeWithoutBorders (or relevant hackathon hashtags)
+   3. **Include relevant hashtags**: #ConfluxHackathon #globalhackfest26 (or relevant hackathon hashtags)
    4. **Share project highlights**: Brief description, demo link, and what makes it unique
    5. **Include link to your project**: GitHub repository or live demo URL
 
@@ -106,7 +106,7 @@
 
    🔗 [Demo/Repo Link]
 
-   @ConfluxDevs @ConfluxNetwork #ConfluxHackathon
+   @ConfluxDevs @ConfluxNetwork #globalhackfest26
    ```
 
    ### 8. Submit Grant Proposal (Optional - Bonus Points)
